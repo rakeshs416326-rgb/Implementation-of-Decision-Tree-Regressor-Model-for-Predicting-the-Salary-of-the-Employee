@@ -59,26 +59,17 @@ dt.predict([[5,6]])
 ```
 
 ## Output:
+## SALARY DATA
+<img width="384" height="263" alt="image" src="https://github.com/user-attachments/assets/77ae2274-cfbb-4fb4-9dbf-48e896eeda2a" />
 
-<img width="411" height="254" alt="image" src="https://github.com/user-attachments/assets/b4b0d8be-ae15-4cfb-acad-a83eb5fffa70" />
+## ACTUAL vs PREDICTED
+<img width="452" height="238" alt="image" src="https://github.com/user-attachments/assets/1f2e2d97-ac96-4626-b1f8-1253ad15fa97" />
 
+## ACCURACY
+<img width="389" height="66" alt="image" src="https://github.com/user-attachments/assets/7c762a18-a3ab-430a-a09a-6e2420a96fdd" />
 
-<img width="450" height="238" alt="image" src="https://github.com/user-attachments/assets/6be350c7-6600-4c16-a6f8-f4f94691c0a2" />
-
-
-<img width="204" height="227" alt="image" src="https://github.com/user-attachments/assets/1a72fcac-1c2a-4767-aff5-976d22916fbd" />
-
-
-<img width="342" height="256" alt="image" src="https://github.com/user-attachments/assets/d35f932d-6793-4f47-b277-f271fc14ae57" />
-
-
-<img width="196" height="58" alt="image" src="https://github.com/user-attachments/assets/4312f0ad-4868-4185-ba2b-d6dcbeed7bb6" />
-
-
-<img width="259" height="53" alt="image" src="https://github.com/user-attachments/assets/a41e2133-ed94-4e8d-a170-82288da74a82" />
-
-
-<img width="244" height="44" alt="image" src="https://github.com/user-attachments/assets/11826a88-5c70-46f1-a449-2715425c5474" />
+## DECISION TREE
+<img width="885" height="593" alt="image" src="https://github.com/user-attachments/assets/8eea9b73-c588-465b-a4c9-9234cc629449" />
 
 
 ## Result:
